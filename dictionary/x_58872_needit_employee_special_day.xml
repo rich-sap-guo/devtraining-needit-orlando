@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="employee special day" max_length="40" name="x_58872_needit_employee_special_day" sizeclass="3" type="collection">
+        <element label="employee" max_length="40" name="employee" type="string"/>
+        <element label="occasion date" max_length="40" name="occasion_date" type="glide_date"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="type" max_length="40" name="type" type="string"/>
+        <index name="index">
+            <element name="employee"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
