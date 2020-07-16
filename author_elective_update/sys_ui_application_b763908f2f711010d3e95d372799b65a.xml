@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>AE Test</name>
+        <order/>
+        <roles>x_58872_needit.ae_test_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-08 16:06:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b763908f2f711010d3e95d372799b65a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AE Test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_application_b763908f2f711010d3e95d372799b65a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-08 16:06:10</sys_updated_on>
+    </sys_ui_application>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f2545c88dbbbbb000b9d21c4059619f7</instance_id>
+        <instance_name>dev92948</instance_name>
+        <name>sys_ui_application_b763908f2f711010d3e95d372799b65a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>AE Test</name>
+        <order/>
+        <roles>x_58872_needit.ae_test_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-08 16:06:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b763908f2f711010d3e95d372799b65a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AE Test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_application_b763908f2f711010d3e95d372799b65a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-08 16:06:10</sys_updated_on>
+    </sys_ui_application>
+</record_update>]]></payload>
+        <payload_hash>-1504412605</payload_hash>
+        <record_name>AE Test</record_name>
+        <reverted_from/>
+        <source>e30837b81b021010068cfc86cc4bcbe1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-14 19:14:37</sys_created_on>
+        <sys_id>32187bb81b021010068cfc86cc4bcb01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1734ec014f20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-14 19:14:37</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>fe187bb8a2021010acc6e300d4780900</update_guid>
+        <update_guid_history>fe187bb8a2021010acc6e300d4780900:-1504412605</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-16 21:26:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>03ada73691bd42ac80ff52e9cba95710</sys_id>
+        <sys_metadata>b763908f2f711010d3e95d372799b65a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AE Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_application_b763908f2f711010d3e95d372799b65a</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_b763908f2f711010d3e95d372799b65a">32187bb81b021010068cfc86cc4bcb01</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-16 21:26:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
