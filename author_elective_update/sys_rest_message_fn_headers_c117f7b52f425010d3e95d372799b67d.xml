@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_headers">
+    <sys_rest_message_fn_headers action="DELETE">
+        <name>Authorization</name>
+        <rest_message_function display_value="triggerTestJob">7b1b9efd2f4e1010d3e95d372799b6fd</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_headers</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-17 21:44:27</sys_created_on>
+        <sys_id>c117f7b52f425010d3e95d372799b67d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Authorization</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_rest_message_fn_headers_c117f7b52f425010d3e95d372799b67d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-17 21:57:44</sys_updated_on>
+        <value/>
+    </sys_rest_message_fn_headers>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>19b587e5db0ab70849eac5970596191d</instance_id>
+        <instance_name>dev87400</instance_name>
+        <name>sys_rest_message_fn_headers_c117f7b52f425010d3e95d372799b67d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_headers"><sys_rest_message_fn_headers action="INSERT_OR_UPDATE"><name>Authorization</name><rest_message_function display_value="triggerTestJob">7b1b9efd2f4e1010d3e95d372799b6fd</rest_message_function><sys_class_name>sys_rest_message_fn_headers</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-17 21:44:27</sys_created_on><sys_id>c117f7b52f425010d3e95d372799b67d</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Authorization</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_rest_message_fn_headers_c117f7b52f425010d3e95d372799b67d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-17 21:57:44</sys_updated_on><value/></sys_rest_message_fn_headers></record_update>]]></payload>
+        <payload_hash>1456137231</payload_hash>
+        <record_name>Authorization</record_name>
+        <reverted_from/>
+        <source>7759ca752f4e1010d3e95d372799b66f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-17 21:57:44</sys_created_on>
+        <sys_id>5d3afbb52f425010d3e95d372799b6e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1735ec87c760000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-17 21:57:44</sys_updated_on>
+        <type>HTTP Headers</type>
+        <update_guid>953afbb56d425010f04407280ba736e1</update_guid>
+        <update_guid_history>953afbb56d425010f04407280ba736e1:1456137231,cfb93739e342501044870d07945f7730:1455334069,f2273bb5a3425010fbfe8fa2314e2b54:1254579053</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-17 21:57:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn_headers">sys_rest_message_fn_headers</sys_db_object>
+        <sys_id>00c9661b8c674800805fedaae2e84000</sys_id>
+        <sys_metadata>c117f7b52f425010d3e95d372799b67d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Authorization</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="triggerTestJob">7b1b9efd2f4e1010d3e95d372799b6fd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_headers_c117f7b52f425010d3e95d372799b67d</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_headers_c117f7b52f425010d3e95d372799b67d">5d3afbb52f425010d3e95d372799b6e1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-17 21:57:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
