@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_58872_needit_cx_release" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="CX Release - Default view" name="x_58872_needit_cx_release" related_list="NULL" sys_domain="global" view="Default view">6d36be951b5e1010068cfc86cc4bcb56</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_58872_needit_cx_release.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-28 13:59:22</sys_created_on>
+            <sys_id>6936be951b5e1010068cfc86cc4bcb57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-28 13:59:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="CX Release - Default view" name="x_58872_needit_cx_release" related_list="NULL" sys_domain="global" view="Default view">6d36be951b5e1010068cfc86cc4bcb56</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_58872_needit_cx_release_phase.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-28 13:59:22</sys_created_on>
+            <sys_id>6d36be951b5e1010068cfc86cc4bcb57</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-28 13:59:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="CX Release - Default view" name="x_58872_needit_cx_release" related_list="NULL" sys_domain="global" view="Default view">6d36be951b5e1010068cfc86cc4bcb56</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>REL:c4537f7bc70000103e0d0ba4c7c2608e</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-28 13:59:22</sys_created_on>
+            <sys_id>6136be951b5e1010068cfc86cc4bcb58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-28 13:59:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="CX Release - Default view" name="x_58872_needit_cx_release" related_list="NULL" sys_domain="global" view="Default view">6d36be951b5e1010068cfc86cc4bcb56</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>REL:c6b337bbc70000103e0d0ba4c7c2606a</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-28 13:59:22</sys_created_on>
+            <sys_id>6536be951b5e1010068cfc86cc4bcb58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-28 13:59:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="CX Release - Default view" name="x_58872_needit_cx_release" related_list="NULL" sys_domain="global" view="Default view">6d36be951b5e1010068cfc86cc4bcb56</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>REL:6f93f3bbc70000103e0d0ba4c7c2602d</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-28 13:59:22</sys_created_on>
+            <sys_id>6936be951b5e1010068cfc86cc4bcb58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-28 13:59:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="CX Release - Default view" name="x_58872_needit_cx_release" related_list="NULL" sys_domain="global" view="Default view">6d36be951b5e1010068cfc86cc4bcb56</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>REL:dae33bbbc70000103e0d0ba4c7c26009</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-28 13:59:22</sys_created_on>
+            <sys_id>6d36be951b5e1010068cfc86cc4bcb58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-28 13:59:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="CX Release - Default view" name="x_58872_needit_cx_release" related_list="NULL" sys_domain="global" view="Default view">6d36be951b5e1010068cfc86cc4bcb56</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>REL:ca14bbbbc70000103e0d0ba4c7c26025</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-28 13:59:22</sys_created_on>
+            <sys_id>6136be951b5e1010068cfc86cc4bcb59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-28 13:59:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="CX Release - Default view" name="x_58872_needit_cx_release" related_list="NULL" sys_domain="global" view="Default view">6d36be951b5e1010068cfc86cc4bcb56</list_id>
+            <order_by/>
+            <position>7</position>
+            <related_list>REL:4fb433fbc70000103e0d0ba4c7c2608a</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-28 13:59:22</sys_created_on>
+            <sys_id>6536be951b5e1010068cfc86cc4bcb59</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-28 13:59:22</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>CX Release - Default view</calculated_name>
+            <filter/>
+            <name>x_58872_needit_cx_release</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-28 13:59:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d36be951b5e1010068cfc86cc4bcb56</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CX Release - Default view</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_related_x_58872_needit_cx_release_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-28 13:59:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
