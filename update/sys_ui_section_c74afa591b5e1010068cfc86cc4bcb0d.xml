@@ -4,13 +4,13 @@
             <element>product_release</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-28 14:17:14</sys_created_on>
-            <sys_id>874afa591b5e1010068cfc86cc4bcb0e</sys_id>
+            <sys_created_on>2020-07-28 15:36:25</sys_created_on>
+            <sys_id>476c43951b9e1010068cfc86cc4bcb1e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_cx_release_task" sys_domain="global" view="Default view">c74afa591b5e1010068cfc86cc4bcb0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 14:17:14</sys_updated_on>
+            <sys_updated_on>2020-07-28 15:36:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,27 +18,27 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-28 14:17:14</sys_created_on>
-            <sys_id>0b4afa591b5e1010068cfc86cc4bcb0e</sys_id>
+            <sys_created_on>2020-07-28 15:36:25</sys_created_on>
+            <sys_id>c76c43951b9e1010068cfc86cc4bcb1e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_cx_release_task" sys_domain="global" view="Default view">c74afa591b5e1010068cfc86cc4bcb0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 14:17:14</sys_updated_on>
+            <sys_updated_on>2020-07-28 15:36:25</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>task</element>
+            <element>automated_task</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-28 14:17:14</sys_created_on>
-            <sys_id>8b4afa591b5e1010068cfc86cc4bcb0e</sys_id>
+            <sys_created_on>2020-07-28 15:36:25</sys_created_on>
+            <sys_id>4b6c43951b9e1010068cfc86cc4bcb1e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_cx_release_task" sys_domain="global" view="Default view">c74afa591b5e1010068cfc86cc4bcb0d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 14:17:14</sys_updated_on>
+            <sys_updated_on>2020-07-28 15:36:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
