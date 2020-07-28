@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="rm_release" label="CX Release" max_length="40" name="x_58872_needit_cx_release" type="collection"/>
+    <element extends="rm_release" label="CX Release" max_length="40" name="x_58872_needit_cx_release" sizeclass="2" type="collection"/>
 </database>
