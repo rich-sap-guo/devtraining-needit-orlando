@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="automated_task" label="Automated Task" language="en" table="x_58872_needit_cx_release_task">
+    <sys_documentation element="release_phase" label="Release Phase" language="en" table="x_58872_needit_cx_auto_task">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>automated_task</element>
+            <element>release_phase</element>
             <help/>
             <hint/>
-            <label>Automated Task</label>
+            <label>Release Phase</label>
             <language>en</language>
-            <name>x_58872_needit_cx_release_task</name>
-            <plural>Automated Tasks</plural>
+            <name>x_58872_needit_cx_auto_task</name>
+            <plural>Release Phases</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-07-28 15:01:21</sys_created_on>
-            <sys_id>ed64cf111b9e1010068cfc86cc4bcb7d</sys_id>
+            <sys_created_on>2020-07-28 16:15:17</sys_created_on>
+            <sys_id>a855931d1b9e1010068cfc86cc4bcb63</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Automated Task</sys_name>
+            <sys_name>Release Phase</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-            <sys_update_name>sys_documentation_x_58872_needit_cx_release_task_automated_task_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_58872_needit_cx_auto_task_release_phase_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 15:01:21</sys_updated_on>
+            <sys_updated_on>2020-07-28 16:15:17</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
