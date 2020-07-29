@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_related sys_domain="global" table="x_58872_needit_cx_release" version="2" view="">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
-            <filter/>
+            <filter table="x_58872_needit_cx_release.parent">release_typeINmajor,minor^EQ<item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+            </filter>
             <list_id display_value="CX Release - Default view" name="x_58872_needit_cx_release" related_list="NULL" sys_domain="global" view="Default view">9e936f551bde1010068cfc86cc4bcb53</list_id>
             <order_by/>
             <position>0</position>
@@ -10,9 +11,9 @@
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-07-28 17:17:40</sys_created_on>
             <sys_id>9e936f551bde1010068cfc86cc4bcb54</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-07-28 17:17:40</sys_updated_on>
+            <sys_updated_on>2020-07-28 21:18:22</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
