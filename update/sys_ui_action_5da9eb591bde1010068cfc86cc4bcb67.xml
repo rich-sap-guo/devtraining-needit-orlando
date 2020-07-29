@@ -2,14 +2,14 @@
     <sys_ui_action action="INSERT_OR_UPDATE">
         <action_name>start_auto_task</action_name>
         <active>true</active>
-        <client>true</client>
+        <client>false</client>
         <client_script_v2><![CDATA[function onClick(g_form) {
 
 }]]></client_script_v2>
         <comments/>
         <condition/>
-        <form_action>false</form_action>
-        <form_button>false</form_button>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
         <form_button_v2>false</form_button_v2>
         <form_context_menu>false</form_context_menu>
         <form_link>false</form_link>
@@ -17,10 +17,10 @@
         <form_style/>
         <hint/>
         <isolate_script>true</isolate_script>
-        <list_action>true</list_action>
+        <list_action>false</list_action>
         <list_banner_button>false</list_banner_button>
         <list_button>false</list_button>
-        <list_choice>true</list_choice>
+        <list_choice>false</list_choice>
         <list_context_menu>false</list_context_menu>
         <list_link>false</list_link>
         <list_save_with_form_button>false</list_save_with_form_button>
@@ -28,8 +28,22 @@
         <name>Start</name>
         <onclick/>
         <order>100</order>
-        <script/>
-        <show_insert>true</show_insert>
+        <script><![CDATA[(function startCXAutoTask(current, previous) {
+	
+	try {
+		var inputs = {};
+		inputs['current'] = current; // GlideRecord of table: 
+		inputs['table_name'] = 'x_58872_needit_cx_auto_task';
+
+		sn_fd.FlowAPI.executeFlow('x_58872_needit.modelt_build', inputs);
+		
+	} catch (ex) {
+		var message = ex.getMessage();
+		gs.error(message);
+	}
+	
+})(current, previous);]]></script>
+        <show_insert>false</show_insert>
         <show_multiple_update>false</show_multiple_update>
         <show_query>false</show_query>
         <show_update>true</show_update>
@@ -39,7 +53,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5da9eb591bde1010068cfc86cc4bcb67</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Start</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -47,9 +61,9 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_ui_action_5da9eb591bde1010068cfc86cc4bcb67</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-29 00:43:04</sys_updated_on>
+        <sys_updated_on>2020-07-29 03:12:33</sys_updated_on>
         <table>x_58872_needit_cx_auto_task</table>
         <ui11_compatible>true</ui11_compatible>
-        <ui16_compatible>false</ui16_compatible>
+        <ui16_compatible>true</ui16_compatible>
     </sys_ui_action>
 </record_update>

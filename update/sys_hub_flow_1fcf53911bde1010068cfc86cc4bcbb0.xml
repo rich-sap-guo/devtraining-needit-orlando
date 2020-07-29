@@ -6,13 +6,13 @@
         <annotation/>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
-        <compiler_build/>
+        <compiler_build>glide-orlando-12-11-2019__patch0-hotfix1-01-08-2020</compiler_build>
         <copied_from/>
         <copied_from_name/>
         <description/>
         <internal_name>modelt_build</internal_name>
         <label_cache>[{"name":"{{static.62826bf03710200044e0bfc8bcbe5df1}}","label":"Abel Tuter","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"388481e8-d6d8-4716-be94-25d4c93de686.table_name","label":"3.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"388481e8-d6d8-4716-be94-25d4c93de686.record","label":"3.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Updated_1.current.method","label":"Trigger➛CX Auto Task Record➛Method","reference":"","reference_display":"Method","type":"string","base_type":"string","parent_table_name":"x_58872_needit_cx_auto_task","column_name":"method"},{"name":"Updated_1.current.rest_message_id","label":"Trigger➛CX Auto Task Record➛Rest Message ID","reference":"","reference_display":"Rest Message ID","type":"string","base_type":"string","parent_table_name":"x_58872_needit_cx_auto_task","column_name":"rest_message_id"},{"name":"Updated_1.current.sys_id","label":"Trigger➛CX Auto Task Record➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"x_58872_needit_cx_auto_task","column_name":"sys_id"},{"name":"2da064e6-30d7-4054-9498-56a933cb8c05.status","label":"2.1➛Status","reference_display":"Status","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"861ae631-3b97-48c7-90df-f544181dca92"}},{"name":"edfa9bc9-9c08-43d4-96aa-9864d53ec333.approval_state","label":"1➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Updated_1.current","label":"Trigger➛CX Auto Task Record","reference":"x_58872_needit_cx_auto_task","reference_display":"CX Auto Task","type":"reference","base_type":"reference","attributes":{}},{"name":"{{static.b85d44954a3623120004689b2d5dd60a}}","label":"CAB Approval","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference"}]</label_cache>
-        <latest_snapshot>4a0565e51b165010068cfc86cc4bcb95</latest_snapshot>
+        <latest_snapshot>2fdba16d1b165010068cfc86cc4bcb79</latest_snapshot>
         <master_snapshot>4a0565e51b165010068cfc86cc4bcb95</master_snapshot>
         <name>Model-T Build</name>
         <natlang/>
@@ -74,7 +74,7 @@
         <action_type display_value="Call Jenkins Pipeline">bfcf5de11b165010068cfc86cc4bcbf1</action_type>
         <action_type_parent/>
         <comment/>
-        <compiled_snapshot/>
+        <compiled_snapshot>bfcf5de11b165010068cfc86cc4bcbf1</compiled_snapshot>
         <display_text/>
         <flow display_value="Model-T Build">1fcf53911bde1010068cfc86cc4bcbb0</flow>
         <order>2.1</order>
@@ -83,10 +83,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-29 02:42:58</sys_created_on>
         <sys_id>0bf425e51b165010068cfc86cc4bcb67</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-29 02:53:13</sys_updated_on>
+        <sys_updated_on>2020-07-29 03:13:04</sys_updated_on>
         <ui_id>2da064e6-30d7-4054-9498-56a933cb8c05</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=0bf425e51b165010068cfc86cc4bcb67"/>
@@ -201,7 +201,7 @@
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent/>
         <comment/>
-        <compiled_snapshot/>
+        <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="Model-T Build">1fcf53911bde1010068cfc86cc4bcbb0</flow>
         <order>3.1</order>
@@ -210,10 +210,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-29 02:42:58</sys_created_on>
         <sys_id>c3f425e51b165010068cfc86cc4bcb71</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-29 02:53:13</sys_updated_on>
+        <sys_updated_on>2020-07-29 03:13:04</sys_updated_on>
         <ui_id>388481e8-d6d8-4716-be94-25d4c93de686</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c3f425e51b165010068cfc86cc4bcb71"/>
@@ -316,7 +316,7 @@
         <action_type display_value="Ask For Approval">f8f2e9920b10030085c083eb37673abd</action_type>
         <action_type_parent/>
         <comment/>
-        <compiled_snapshot/>
+        <compiled_snapshot>f8f2e9920b10030085c083eb37673abd</compiled_snapshot>
         <display_text/>
         <flow display_value="Model-T Build">1fcf53911bde1010068cfc86cc4bcbb0</flow>
         <order>1</order>
@@ -325,10 +325,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-29 01:58:58</sys_created_on>
         <sys_id>eeea1d211b165010068cfc86cc4bcb4b</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-29 02:53:13</sys_updated_on>
+        <sys_updated_on>2020-07-29 03:13:04</sys_updated_on>
         <ui_id>edfa9bc9-9c08-43d4-96aa-9864d53ec333</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=eeea1d211b165010068cfc86cc4bcb4b"/>
@@ -772,7 +772,7 @@
         <action_type display_value="Call Jenkins Pipeline">bfcf5de11b165010068cfc86cc4bcbf1</action_type>
         <action_type_parent/>
         <comment/>
-        <compiled_snapshot/>
+        <compiled_snapshot>bfcf5de11b165010068cfc86cc4bcbf1</compiled_snapshot>
         <display_text/>
         <flow display_value="Model-T Build">1fcf53911bde1010068cfc86cc4bcbb0</flow>
         <order>2.1</order>
@@ -781,10 +781,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-29 02:42:58</sys_created_on>
         <sys_id>0bf425e51b165010068cfc86cc4bcb67</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-29 02:53:13</sys_updated_on>
+        <sys_updated_on>2020-07-29 03:13:04</sys_updated_on>
         <ui_id>2da064e6-30d7-4054-9498-56a933cb8c05</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=0bf425e51b165010068cfc86cc4bcb67"/>
@@ -831,7 +831,7 @@
         <action_type display_value="Update Record">f9d01dd2c31332002841b63b12d3aea1</action_type>
         <action_type_parent/>
         <comment/>
-        <compiled_snapshot/>
+        <compiled_snapshot>f9d01dd2c31332002841b63b12d3aea1</compiled_snapshot>
         <display_text/>
         <flow display_value="Model-T Build">1fcf53911bde1010068cfc86cc4bcbb0</flow>
         <order>3.1</order>
@@ -840,10 +840,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-29 02:42:58</sys_created_on>
         <sys_id>c3f425e51b165010068cfc86cc4bcb71</sys_id>
-        <sys_mod_count>12</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-29 02:53:13</sys_updated_on>
+        <sys_updated_on>2020-07-29 03:13:04</sys_updated_on>
         <ui_id>388481e8-d6d8-4716-be94-25d4c93de686</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c3f425e51b165010068cfc86cc4bcb71"/>
@@ -918,7 +918,7 @@
         <action_type display_value="Ask For Approval">f8f2e9920b10030085c083eb37673abd</action_type>
         <action_type_parent/>
         <comment/>
-        <compiled_snapshot/>
+        <compiled_snapshot>f8f2e9920b10030085c083eb37673abd</compiled_snapshot>
         <display_text/>
         <flow display_value="Model-T Build">1fcf53911bde1010068cfc86cc4bcbb0</flow>
         <order>1</order>
@@ -927,10 +927,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-29 01:58:58</sys_created_on>
         <sys_id>eeea1d211b165010068cfc86cc4bcb4b</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>16</sys_mod_count>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-29 02:53:13</sys_updated_on>
+        <sys_updated_on>2020-07-29 03:13:04</sys_updated_on>
         <ui_id>edfa9bc9-9c08-43d4-96aa-9864d53ec333</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=eeea1d211b165010068cfc86cc4bcb4b"/>
@@ -1233,9 +1233,9 @@
     <sys_flow_trigger_plan action="delete_multiple" query="plan_id=1fcf53911bde1010068cfc86cc4bcbb0^sys_idNOT INae05a5e51b165010068cfc86cc4bcbc6"/>
     <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
         <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
-        <plan/>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"ae05a5e51b165010068cfc86cc4bcbc6","name":"plan"}}</plan>
         <plan_id>1fcf53911bde1010068cfc86cc4bcbb0</plan_id>
-        <snapshot>4a0565e51b165010068cfc86cc4bcb95</snapshot>
+        <snapshot>2fdba16d1b165010068cfc86cc4bcb79</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-29 02:43:12</sys_created_on>
         <sys_domain>global</sys_domain>
