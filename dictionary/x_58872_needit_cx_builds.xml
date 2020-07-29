@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="CX Builds" max_length="40" name="x_58872_needit_cx_builds" sizeclass="0" type="collection">
+        <element display="true" label="Auto Task" max_length="32" name="auto_task" reference="x_58872_needit_cx_auto_task" type="reference"/>
+        <element label="Build ID" max_length="40" name="build_id" type="integer"/>
+        <element label="Feature" max_length="32" name="feature" reference="x_58872_needit_cx_feature" type="reference"/>
+        <index name="index">
+            <element name="auto_task"/>
+        </index>
+        <index name="index2">
+            <element name="feature"/>
+        </index>
+    </element>
+</database>

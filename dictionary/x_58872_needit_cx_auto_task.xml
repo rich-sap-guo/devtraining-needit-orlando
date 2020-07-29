@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="CX Auto Task" max_length="40" name="x_58872_needit_cx_auto_task" sizeclass="1" type="collection">
-        <element label="Build Parameters" max_length="2000" name="build_parameters" type="string"/>
+    <element extends="task" label="CX Auto Task" max_length="40" name="x_58872_needit_cx_auto_task" sizeclass="2" type="collection">
         <element label="Method" max_length="100" name="method" type="string"/>
         <element label="Release Phase" max_length="32" name="release_phase" reference="x_58872_needit_cx_release_phase" type="reference"/>
         <element label="Rest Message ID" max_length="100" name="rest_message_id" type="string"/>
+        <element label="Sn Table Endpoint" max_length="1000" name="sn_table_endpoint" type="string"/>
     </element>
 </database>

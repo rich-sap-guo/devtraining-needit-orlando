@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="CX Feature" max_length="40" name="x_58872_needit_cx_feature" sizeclass="1" type="collection">
+        <element label="Feature Name" max_length="100" name="feature_name" type="string"/>
+        <element label="Region" max_length="100" name="region" type="string"/>
+        <element label="Release" max_length="32" name="release" reference="x_58872_needit_cx_release" type="reference"/>
+    </element>
+</database>
