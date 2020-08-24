@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_parameter_set">
+    <sys_atf_parameter_set action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Element Locator = fdp-microfrontends-wrapper div::sr vue-element::sr ul li
+name = Should display log when click inside Vue MicroApp
+Tab Name = Vue App
+Parameter No = 2
+Expect Message = Main app receive event:{"event":"click","data":"from VUE MicroApp"}</description>
+        <order>2</order>
+        <parameters/>
+        <sys_class_name>sys_atf_parameter_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 21:02:43</sys_created_on>
+        <sys_id>1d99d70edbf21010a2e3880948961994</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_parameter_set_1d99d70edbf21010a2e3880948961994</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 21:02:43</sys_updated_on>
+        <test display_value="Microfrontend e2e test">3be24606db321010a2e3880948961918</test>
+    </sys_atf_parameter_set>
+    <sys_variable_value action="delete_multiple" query="document_key=1d99d70edbf21010a2e3880948961994"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>1d99d70edbf21010a2e3880948961994</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 21:02:43</sys_created_on>
+        <sys_id>060a570edbf21010a2e38809489619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 21:02:43</sys_updated_on>
+        <value>Should display log when click inside Vue MicroApp</value>
+        <variable display_value="">d4d9aa0edb721010a2e388094896198b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>1d99d70edbf21010a2e3880948961994</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 21:02:43</sys_created_on>
+        <sys_id>420a570edbf21010a2e38809489619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 21:02:43</sys_updated_on>
+        <value>fdp-microfrontends-wrapper div::sr vue-element::sr ul li</value>
+        <variable display_value="">682aee0edb721010a2e388094896192b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>1d99d70edbf21010a2e3880948961994</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 21:02:43</sys_created_on>
+        <sys_id>4e0a570edbf21010a2e38809489619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 21:02:43</sys_updated_on>
+        <value>2</value>
+        <variable display_value="">8d84264adb721010a2e38809489619f1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>1d99d70edbf21010a2e3880948961994</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 21:02:43</sys_created_on>
+        <sys_id>8a0a570edbf21010a2e38809489619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 21:02:43</sys_updated_on>
+        <value>Vue App</value>
+        <variable display_value="">a3e92e0edb721010a2e3880948961978</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_parameter_set</document>
+        <document_key>1d99d70edbf21010a2e3880948961994</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-24 21:02:43</sys_created_on>
+        <sys_id>c60a570edbf21010a2e38809489619f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-24 21:02:43</sys_updated_on>
+        <value>Main app receive event:{"event":"click","data":"from VUE MicroApp"}</value>
+        <variable display_value="">273a624edb721010a2e388094896192d</variable>
+    </sys_variable_value>
+</record_update>
