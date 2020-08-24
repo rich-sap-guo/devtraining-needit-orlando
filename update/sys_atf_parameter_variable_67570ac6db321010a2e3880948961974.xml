@@ -39,7 +39,7 @@
         <label>test</label>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <model display_value="My New Test">3be24606db321010a2e3880948961918</model>
+        <model display_value="Microfrontend e2e test">3be24606db321010a2e3880948961918</model>
         <model_id>3be24606db321010a2e3880948961918</model_id>
         <model_table/>
         <name>var__m_sys_atf_parameter_variable_3be24606db321010a2e3880948961918</name>

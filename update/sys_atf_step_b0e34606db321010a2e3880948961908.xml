@@ -23,7 +23,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-08-24 14:58:13</sys_updated_on>
         <table/>
-        <test display_value="My New Test">3be24606db321010a2e3880948961918</test>
+        <test display_value="Microfrontend e2e test">3be24606db321010a2e3880948961918</test>
         <timeout/>
         <warning_message/>
     </sys_atf_step>
